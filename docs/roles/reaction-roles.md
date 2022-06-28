@@ -58,7 +58,6 @@
 ???+ tldr "Advanced/niche RR Commands"
 
 	| Name | Example | Usage |
-	| :--- | :--- | :--- |
 	| **rr move &lt;base\_id&gt; &lt;target\_id&gt;** | !rr move 458641514017587210 445066811097219082 | Moves the reaction roles from one message to another. This works even if the message was purged (using the message id found in !rr show). |
 	| **rr aio &lt;channel&gt; &lt;color&gt; &lt;title \| description&gt; &lt;emoji&gt; &lt;role&gt;** | !rr aio \#reaction eeaaee "hello there \| this is a description" :red: hello :purple: there | **SEPARATE EACH EMOJI-ROLE PAIR WITH A NEWLINE** This is meant for power users who wish to create everything with just one command. The title and description have to be enclosed in double quotes. |
 	| **rr aiou &lt;channel&gt; &lt;color&gt; &lt;title \| description&gt; &lt;emoji&gt; &lt;role&gt;** | -- | Works like **!rr aio** but also marks the message as unique |
@@ -70,4 +69,5 @@
 
 [The fastest and most reliable unique reaction roles of any bot.](https://i.imgur.com/A7ShLfZ.mp4)
 
-![Me setting up reaction roles in my support server.](../images/reaction_role_setup.png)
+![Me vvvvvvvvvg
+settling up reaction roles in my support server.](../images/reaction_role_setup.png)
